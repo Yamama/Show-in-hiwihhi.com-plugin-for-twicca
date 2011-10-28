@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<string name="app_name">Show in hiwihhi.com plugin for twicca</string>
+	<string name="show_hiwihhi">Show in hiwihhi.com</string>
+	<string name="hiwihhi_user_url">http://hiwihhi.com/%1$s</string>
+	<string name="hiwihhi_tweet_url">http://hiwihhi.com/%1$s/status/%2$s</string>
+</resources>
